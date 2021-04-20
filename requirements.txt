@@ -1,5 +1,5 @@
 asyncio==3.4.3
-autobahn==0.13.0
+autobahn==20.12.3
 hypothesis==3.4.2
 oauthlib==1.1.2
 py==1.4.31
